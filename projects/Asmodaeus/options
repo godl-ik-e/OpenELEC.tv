@@ -79,7 +79,7 @@
   OPTIMIZATIONS="speed"
 
 # Project CFLAGS
-  PROJECT_CFLAGS="-m3dnow -m3dnowext -mmmx -msse -msse2"
+  PROJECT_CFLAGS="-m3dnow -mmmx -msse -msse2"
 
 # LTO (Link Time Optimization) support
   LTO_SUPPORT="no"
